@@ -1,0 +1,42 @@
+body{
+    background-color: #CBE4DE;
+    font-size: 1.75em;
+    color: #2C3333;
+}
+
+hr{
+    border: solid black 0.01em;
+}
+
+tr{
+    border-bottom: solid #2C3333 0.1em;
+}
+
+td{
+    vertical-align: middle !important;
+}
+
+.nav-bar{
+    background-color: #2C3333;
+    border: 0;
+}
+
+.nav-bar, .nav-bar a{
+    color: #CBE4DE;
+}
+
+.nav-bar a:hover{
+    background-color: #0E8388 !important;
+}
+
+.active{
+    background-color: #2E4F4F !important;
+}
+
+.page-title{
+    font-weight: bold;
+}
+.list-group{
+    background-color: #CBE4DE;
+    color: #2C3333;
+}
